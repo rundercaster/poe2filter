@@ -383,7 +383,7 @@ Show
 AreaLevel >= 65
 Class "Rings" "Amulets" "Belts"
 Rarity Rare
-SetFontSize 30
+SetFontSize 35
 SetTextColor 233 206 75
 SetBorderColor 233 206 75
 PlayEffect Yellow
