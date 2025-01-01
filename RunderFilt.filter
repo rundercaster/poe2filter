@@ -521,7 +521,7 @@ Class "Quivers"
 Hide
 AreaLevel > 65
 Rarity <= Magic
-Class "Body Armours" "Staffs" "Helmets" "Boots" "Gloves" "Shields" "Foci" "Quivers" "One Hand Maces" "Two Hand Maces" "Quarterstaves" "Bows" "Crossbows"
+Class "Body Armours" "Staff" "Helmets" "Boots" "Gloves" "Shields" "Foci" "Quivers" "One Hand Maces" "Two Hand Maces" "Quarterstaves" "Bows" "Crossbows"
 
 #--------------------------
 # OPTIONAL RULES
