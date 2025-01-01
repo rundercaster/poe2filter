@@ -393,7 +393,7 @@ SetFontSize 40
 #--------------------------
 Show
 Rarity Normal
-BaseType "Heavy Belt" "Utility Belt" "Sttelar Amulet" "Azure Amulet"
+BaseType "Heavy Belt" "Utility Belt" "Stellar Amulet" "Azure Amulet"
 SetFontSize 40
 SetTextColor 255 234 74
 SetBorderColor 255 234 74
