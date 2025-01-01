@@ -370,9 +370,20 @@ SetFontSize 40
 #--------------------------
 
 Show
+AreaLevel < 65
 Class "Rings" "Amulets" "Belts"
 Rarity Rare
 SetFontSize 40
+SetTextColor 233 206 75
+SetBorderColor 233 206 75
+PlayEffect Yellow
+MinimapIcon 1 Yellow Diamond
+
+Show
+AreaLevel >= 65
+Class "Rings" "Amulets" "Belts"
+Rarity Rare
+SetFontSize 30
 SetTextColor 233 206 75
 SetBorderColor 233 206 75
 PlayEffect Yellow
@@ -383,9 +394,16 @@ MinimapIcon 1 Yellow Diamond
 #--------------------------
 
 Show
+AreaLevel < 65
 Rarity Normal
 Class "Rings" "Amulets" "Belts"
 SetFontSize 40
+
+Show
+AreaLevel >= 65
+Rarity Normal
+Class "Rings" "Amulets" "Belts"
+SetFontSize 30
 
 
 #--------------------------
@@ -402,6 +420,13 @@ MinimapIcon 1 Yellow Square
 
 
 Show
+AreaLevel >= 65
+Class "Rings" "Amulets" "Belts"
+Rarity Magic
+SetFontSize 30
+
+Show
+AreaLevel <= 65
 Class "Rings" "Amulets" "Belts"
 Rarity Magic
 SetFontSize 40
